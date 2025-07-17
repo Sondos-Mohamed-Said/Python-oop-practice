@@ -48,7 +48,7 @@ Input (`E-mails.csv`):
 
 ```
 example@gmail.com
-wrong_email@com
+wrong.email@com
 test@domain.org
 ```
 
