@@ -1,4 +1,4 @@
-# My Python OOP Practice 🐍
+# Python OOP Practice 🐍
 
 This repository contains my practice files for learning **Object-Oriented Programming (OOP)** in Python.
 
