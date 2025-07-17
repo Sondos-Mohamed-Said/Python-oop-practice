@@ -7,9 +7,9 @@ This project is a simple **Object-Oriented Programming (OOP)** practice using Py
 ### 📁 Project Structure
 
 ```
-├── person.py   # Defines Person and Employee classes
-├── office.py   # Defines Office class and hiring logic
-├── car.py      # Defines Car class with methods like run and stop
+├── Person.py   # Defines Person and Employee classes
+├── Office.py   # Defines Office class and hiring logic
+├── Car.py      # Defines Car class with methods like run and stop
 ├── main.py     # Main script to test all classes
 └── README.md   # Project documentation
 ```
